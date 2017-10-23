@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "55220489095",
+    "firebase_url": "https://lightsaber-f9e99.firebaseio.com",
+    "project_id": "lightsaber-f9e99",
+    "storage_bucket": "lightsaber-f9e99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55220489095:android:b531c0ecbf97cbbf",
+        "android_client_info": {
+          "package_name": "com.example.aefx.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55220489095-ouckhuq21cb5shm70kfu7bk2juc7tuth.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aefx.myapplication",
+            "certificate_hash": "11b3da5deb052b35345c04b85d011d653d742c6d"
+          }
+        },
+        {
+          "client_id": "55220489095-u4vr65rdc0v1jr97ongkhv1qmvpo8qq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxRmN1iASi3OP8_hYxPLFnWvHt7L7kVxA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55220489095-u4vr65rdc0v1jr97ongkhv1qmvpo8qq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
